@@ -1,0 +1,21 @@
+"*":
+  "atom-ide-ui":
+    "atom-ide-code-format":
+      formatOnSave: true
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "dracula-ui"
+      "dracula-syntax"
+    ]
+    titleBar: "custom-inset"
+  editor:
+    showIndentGuide: true
+    showInvisibles: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "80b34ba3-4dad-4edf-a9af-4893167d6ce0"
+  fonts:
+    fontFamily: "Hack"
+  welcome:
+    showOnStartup: false
