@@ -5,7 +5,7 @@
   core:
     telemetryConsent: "no"
     themes: [
-      "dracula-ui"
+      "one-dark-ui"
       "dracula-syntax"
     ]
     titleBar: "custom-inset"
